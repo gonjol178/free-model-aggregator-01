@@ -57,6 +57,6 @@ requests — the smallest possible loss.
 ## Repo
 
 - https://github.com/gonjol178/free-model-aggregator-01
-- Commit: (filled in after push; see parent packaging step)
+- Commit: `182dd59` ("free-model-aggregator-01: rating-ordered router with budget-aware failover", branch master)
 - License: MIT (starter LICENSE, SPDX line intact)
 - No secrets, no API keys, no `sk-apx-` anywhere in the repo or the build.
